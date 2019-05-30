@@ -1,0 +1,71 @@
+{
+"emisor":{
+  "rutemisor":"76040308-3",
+  "rsemisor":"ESTEBAN GABRIEL GUENUL ALMONACID SERVIC",
+  "giroemisor":"SERVICIOS INFORMATICOS",
+  "acteco":"726000",
+  "diremisor":"URMENTA 305 OFIC 513",
+  "cmnaemisor":"PUERTO MONTT",
+  "ciuemisor":"PUERTO MONTT",
+  "fecharesol":"2016-04-25",
+  "numresol":"0",
+  "cdgsiisucur":"1",		
+  "rutenvia":"13968481-8"	
+},   
+"receptor":{
+
+  "rutreceptor":"77813960-K",
+  "rsreceptor":"amulen consultores",
+  "giroreceptor":"ASESORIA TRIBUTARIA",
+  "dirreceptor":"URMENTA 305 OFIC 512",
+  "cmnareceptor":"puerto montt",
+  "ciureceptor":"puerto montt"
+},
+
+
+"iddoc" : {
+			"tipodte" : "33",
+			"numdte": "572",
+			"fchemis":"2017-11-06"	
+		
+		},	
+
+"totales":{
+
+		
+    "montoafecto":"750000",
+    "montoexento":"0",
+    "iva":"142500",
+    "tasaiva":"19",	
+    "montototal":"892500"
+   	
+},
+
+
+
+
+  "detalle":[
+					{
+						"nrolinea" : "1",
+						"tpocodigo" : "INT",
+						"vlrcodigo" : "3333",
+						"nmbitem":"SERVIDOR HP",
+						"qtyitem":"1",
+						"prcitem":"500000",
+						"montoitem":"500000"
+					
+	
+ 					},
+					{
+						"nrolinea" : "2",
+						"tpocodigo" : "INT",
+						"vlrcodigo" : "23233",
+						"nmbitem":"NOTEBOOK LENOVO",
+						"qtyitem":"1",
+						"prcitem":"250000",
+						"montoitem":"250000"	
+					}
+				]
+		
+
+}
